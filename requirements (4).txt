@@ -1,0 +1,109 @@
+# Trelox Bot - Python Dependencies
+# Telegram News Bot with AI Integration
+
+# Core Telegram Bot Framework
+python-telegram-bot==20.8
+
+# RSS Feed Parsing
+feedparser==6.0.11
+
+# Async HTTP Client
+httpx==0.26.0
+
+# Task Scheduler
+APScheduler==3.10.4
+
+# Async Database
+aiosqlite==0.19.0
+
+# Configuration Management
+python-dotenv==1.0.0
+
+# Data Validation
+pydantic==2.5.2
+
+# Date/Time Utilities
+python-dateutil==2.8.2
+
+# Natural Language Processing (for AI summaries)
+nltk==3.8.1
+
+# Text Processing Utilities
+regex==2023.10.3
+beautifulsoup4==4.12.2
+
+# HTTP Requests (fallback)
+requests==2.31.0
+
+# JSON Handling
+orjson==3.9.10
+
+# Logging and Monitoring
+structlog==23.2.0
+
+# Environment and System Utilities
+click==8.1.7
+tqdm==4.66.1
+
+# Development and Testing
+pytest==7.4.4
+pytest-asyncio==0.21.1
+black==23.12.1
+flake8==6.1.0
+
+# Optional: AI Integration (if available)
+# Uncomment if using AI features
+# google-generativeai==0.3.1
+# openai==1.6.1
+
+# Database Adapters
+# Uncomment for other database types
+# psycopg2-binary==2.9.9  # PostgreSQL
+# PyMySQL==1.1.0  # MySQL
+
+# Web Framework (for admin panel)
+# flask==3.0.0
+# fastapi==0.108.0
+
+# Security
+cryptography==41.0.8
+
+# Performance and Caching
+# redis==5.0.1
+# memcached==1.61
+
+# Image Processing (for news thumbnails)
+Pillow==10.1.0
+
+# File Format Support
+# openpyxl==3.1.2  # Excel files
+# pandas==2.1.4  # Data analysis
+
+# System Utilities
+psutil==5.9.6
+
+# Web Scraping (backup for RSS)
+# requests-html==0.10.0
+# scrapy==2.11.0
+
+# Monitoring and Analytics
+# prometheus-client==0.19.0
+
+# Deployment
+gunicorn==21.2.0
+
+# Documentation
+sphinx==7.2.6
+sphinx-rtd-theme==1.3.0
+
+# Code Quality
+mypy==1.8.0
+bandit==1.7.5
+
+# Security Scanning
+safety==2.3.5
+
+# Version Management
+setuptools==69.0.3
+wheel==0.42.0
+pip-tools==7.3.0

@@ -1,0 +1,798 @@
+{
+  "مصر": {
+    "عام": [
+      {
+        "name": "البداية",
+        "url": "https://www.albawabhnews.com/feed",
+        "description": "أخبار مصر والعالم",
+        "language": "ar",
+        "country": "مصر",
+        "category": "عام"
+      },
+      {
+        "name": "اليوم السابع",
+        "url": "https://www.youm7.com/rss/news.xml",
+        "description": "أخبار مصر والعالم",
+        "language": "ar",
+        "country": "مصر",
+        "category": "عام"
+      },
+      {
+        "name": "الدستور",
+        "url": "https://www.dostor.org/rss.xml",
+        "description": "أخبار مصر والعالم",
+        "language": "ar",
+        "country": "مصر",
+        "category": "عام"
+      },
+      {
+        "name": "بوابة أخبار اليوم",
+        "url": "https://www.akhbarelyom.com/news/rssfeed.xml",
+        "description": "أخبار مصر والعالم",
+        "language": "ar",
+        "country": "مصر",
+        "category": "عام"
+      },
+      {
+        "name": "فيتو",
+        "url": "https://www.vetogate.com/rss/news.xml",
+        "description": "أخبار مصر والعالم",
+        "language": "ar",
+        "country": "مصر",
+        "category": "عام"
+      },
+      {
+        "name": "صدى البلد",
+        "url": "https://www.elbalad.news/feed/",
+        "description": "أخبار مصر والعالم",
+        "language": "ar",
+        "country": "مصر",
+        "category": "عام"
+      },
+      {
+        "name": "أخبار النهار",
+        "url": "https://www.alnaharegypt.com/rss.xml",
+        "description": "أخبار مصر والعالم",
+        "language": "ar",
+        "country": "مصر",
+        "category": "عام"
+      },
+      {
+        "name": "الوفد",
+        "url": "https://www.alwafd.news/rss/all.xml",
+        "description": "أخبار مصر والعالم",
+        "language": "ar",
+        "country": "مصر",
+        "category": "عام"
+      }
+    ],
+    "اقتصاد": [
+      {
+        "name": "المال",
+        "url": "https://www.al-mal.com/rss/all.xml",
+        "description": "أخبار الاقتصاد المصري",
+        "language": "ar",
+        "country": "مصر",
+        "category": "اقتصاد"
+      },
+      {
+        "name": "القطاع الخاص",
+        "url": "https://www.argaam.com/rss/latest/rss.xml",
+        "description": "أخبار الأعمال والاقتصاد",
+        "language": "ar",
+        "country": "مصر",
+        "category": "اقتصاد"
+      },
+      {
+        "name": "أخبار المال",
+        "url": "https://www.amwalalghad.com/rss/all.xml",
+        "description": "أخبار الاقتصاد والاستثمار",
+        "language": "ar",
+        "country": "مصر",
+        "category": "اقتصاد"
+      },
+      {
+        "name": "البورصة",
+        "url": "https://www.elborsa.com/rssfeed.xml",
+        "description": "أخبار البورصة والاقتصاد",
+        "language": "ar",
+        "country": "مصر",
+        "category": "اقتصاد"
+      },
+      {
+        "name": "منارة",
+        "url": "https://www.menarat.com/rss.xml",
+        "description": "أخبار العقارات والاستثمار",
+        "language": "ar",
+        "country": "مصر",
+        "category": "اقتصاد"
+      }
+    ],
+    "سياسة": [
+      {
+        "name": "الشروق",
+        "url": "https://www.shorouknews.com/rss/rssfeed.xml",
+        "description": "أخبار السياسة المصرية",
+        "language": "ar",
+        "country": "مصر",
+        "category": "سياسة"
+      },
+      {
+        "name": "التحرير",
+        "url": "https://www.tahrirnews.com/rss/rssfeed.xml",
+        "description": "أخبار السياسة",
+        "language": "ar",
+        "country": "مصر",
+        "category": "سياسة"
+      },
+      {
+        "name": "بوابة فيتو",
+        "url": "https://www.vetogate.com/rss/political.xml",
+        "description": "أخبار السياسة المصرية",
+        "language": "ar",
+        "country": "مصر",
+        "category": "سياسة"
+      }
+    ],
+    "رياضة": [
+      {
+        "name": "بطولات",
+        "url": "https://www.btolat.com/rss/news.xml",
+        "description": "أخبار الرياضة المصرية",
+        "language": "ar",
+        "country": "مصر",
+        "category": "رياضة"
+      },
+      {
+        "name": "يلا كورة",
+        "url": "https://www.yallakora.com/rss/all-news.xml",
+        "description": "أخبار كرة القدم والرياضة",
+        "language": "ar",
+        "country": "مصر",
+        "category": "رياضة"
+      },
+      {
+        "name": "الكورة",
+        "url": "https://www.elkora.com/rss/news.xml",
+        "description": "أخبار كرة القدم",
+        "language": "ar",
+        "country": "مصر",
+        "category": "رياضة"
+      },
+      {
+        "name": "إرم",
+        "url": "https://www.ermnews.com/rss/sport.xml",
+        "description": "أخبار الرياضة والعالم",
+        "language": "ar",
+        "country": "مصر",
+        "category": "رياضة"
+      }
+    ],
+    "تقنية": [
+      {
+        "name": "أخبار التقنية",
+        "url": "https://www.technewsar.com/feed/",
+        "description": "أخبار التكنولوجيا والبرمجة",
+        "language": "ar",
+        "country": "مصر",
+        "category": "تقنية"
+      },
+      {
+        "name": "محترف التقنية",
+        "url": "https://www.mohaprofit.com/feed/",
+        "description": "أخبار التكنولوجيا",
+        "language": "ar",
+        "country": "مصر",
+        "category": "تقنية"
+      },
+      {
+        "name": " تكنو لايف",
+        "url": "https://www.technolife.ae/blog/feed/",
+        "description": "أخبار التكنولوجيا",
+        "language": "ar",
+        "country": "مصر",
+        "category": "تقنية"
+      }
+    ],
+    "صحة": [
+      {
+        "name": "سيدتي",
+        "url": "https://www.sayidaty.net/rss/health.xml",
+        "description": "أخبار الصحة والجمال",
+        "language": "ar",
+        "country": "مصر",
+        "category": "صحة"
+      },
+      {
+        "name": " الكونسلتو",
+        "url": "https://www.elconsolto.com/rss/all.xml",
+        "description": "أخبار الصحة والطب",
+        "language": "ar",
+        "country": "مصر",
+        "category": "صحة"
+      }
+    ]
+  },
+  "السعودية": {
+    "عام": [
+      {
+        "name": "العربية",
+        "url": "https://www.alarabiya.net/rss.xml",
+        "description": "أخبار السعودية والعالم العربي",
+        "language": "ar",
+        "country": "السعودية",
+        "category": "عام"
+      },
+      {
+        "name": "الإخبارية",
+        "url": "https://www.ekbnews.net/feed/",
+        "description": "أخبار السعودية والخليج",
+        "language": "ar",
+        "country": "السعودية",
+        "category": "عام"
+      },
+      {
+        "name": "عكاظ",
+        "url": "https://www.okaz.com.sa/rss/all.xml",
+        "description": "أخبار السعودية",
+        "language": "ar",
+        "country": "السعودية",
+        "category": "عام"
+      },
+      {
+        "name": "الرياض",
+        "url": "https://www.alriyadh.com/rss/news.xml",
+        "description": "أخبار السعودية",
+        "language": "ar",
+        "country": "السعودية",
+        "category": "عام"
+      },
+      {
+        "name": "تواصل",
+        "url": "https://www.tawasulnews.com/rss/",
+        "description": "أخبار السعودية",
+        "language": "ar",
+        "country": "السعودية",
+        "category": "عام"
+      },
+      {
+        "name": "سبق",
+        "url": "https://www.sabq.org/rss/all.xml",
+        "description": "أخبار السعودية",
+        "language": "ar",
+        "country": "السعودية",
+        "category": "عام"
+      },
+      {
+        "name": "هاي",
+        "url": "https://www.hai2kora.com/rss/",
+        "description": "أخبار السعودية",
+        "language": "ar",
+        "country": "السعودية",
+        "category": "عام"
+      },
+      {
+        "name": "الوئام",
+        "url": "https://www.alwatan.com.sa/rss/all.xml",
+        "description": "أخبار السعودية",
+        "language": "ar",
+        "country": "السعودية",
+        "category": "عام"
+      }
+    ],
+    "اقتصاد": [
+      {
+        "name": "الرياضية الاقتصادية",
+        "url": "https://www.argaam.com/rss/1390",
+        "description": "أخبار الاقتصاد السعودي",
+        "language": "ar",
+        "country": "السعودية",
+        "category": "اقتصاد"
+      },
+      {
+        "name": "قناة العربية الاقتصادية",
+        "url": "https://www.alarabiya.net/rss/economy.xml",
+        "description": "أخبار الاقتصاد العربي",
+        "language": "ar",
+        "country": "السعودية",
+        "category": "اقتصاد"
+      },
+      {
+        "name": "متابعة",
+        "url": "https://www.motabaa.com/rss/",
+        "description": "أخبار الاقتصاد والاستثمار",
+        "language": "ar",
+        "country": "السعودية",
+        "category": "اقتصاد"
+      },
+      {
+        "name": "السياحة",
+        "url": "https://www.travelandleisureme.com/feed/",
+        "description": "أخبار السفر والسياحة",
+        "language": "ar",
+        "country": "السعودية",
+        "category": "اقتصاد"
+      }
+    ],
+    "رياضة": [
+      {
+        "name": "الكورة",
+        "url": "https://www.goal.com/ar/rss.xml",
+        "description": "أخبار كرة القدم",
+        "language": "ar",
+        "country": "السعودية",
+        "category": "رياضة"
+      },
+      {
+        "name": "الرياضية",
+        "url": "https://www.riyadhnews.com/rss/sports.xml",
+        "description": "أخبار الرياضة السعودية",
+        "language": "ar",
+        "country": "السعودية",
+        "category": "رياضة"
+      },
+      {
+        "name": "سكاي العربية",
+        "url": "https://www.skynewsarabia.com/rss/sport.xml",
+        "description": "أخبار الرياضة",
+        "language": "ar",
+        "country": "السعودية",
+        "category": "رياضة"
+      }
+    ],
+    "تقنية": [
+      {
+        "name": "تك عربي",
+        "url": "https://www.techarabic.com/feed/",
+        "description": "أخبار التكنولوجيا العربية",
+        "language": "ar",
+        "country": "السعودية",
+        "category": "تقنية"
+      },
+      {
+        "name": "أخبار التقنية",
+        "url": "https://www.technews.me/rss.xml",
+        "description": "أخبار التكنولوجيا",
+        "language": "ar",
+        "country": "السعودية",
+        "category": "تقنية"
+      }
+    ]
+  },
+  "الإمارات": {
+    "عام": [
+      {
+        "name": "الإمارات اليوم",
+        "url": "https://www.emaratyoum.ae/rss/rssfeed.xml",
+        "description": "أخبار الإمارات",
+        "language": "ar",
+        "country": "الإمارات",
+        "category": "عام"
+      },
+      {
+        "name": "الإمارات 24",
+        "url": "https://www.emarat24.ae/rss/rssfeed.xml",
+        "description": "أخبار الإمارات",
+        "language": "ar",
+        "country": "الإمارات",
+        "category": "عام"
+      },
+      {
+        "name": "إيلاف",
+        "url": "https://www.elaph.com/rss/ar/all.xml",
+        "description": "أخبار الإمارات والعالم العربي",
+        "language": "ar",
+        "country": "الإمارات",
+        "category": "عام"
+      },
+      {
+        "name": "الرؤية",
+        "url": "https://alroeya.com/rss/rssfeed.xml",
+        "description": "أخبار الإمارات",
+        "language": "ar",
+        "country": "الإمارات",
+        "category": "عام"
+      },
+      {
+        "name": "البيان",
+        "url": "https://www.albayan.ae/rss/all.xml",
+        "description": "أخبار الإمارات والعالم العربي",
+        "language": "ar",
+        "country": "الإمارات",
+        "category": "عام"
+      },
+      {
+        "name": "الخليج",
+        "url": "https://www.alkhaleej.ae/rss/all.xml",
+        "description": "أخبار الخليج العربي",
+        "language": "ar",
+        "country": "الإمارات",
+        "category": "عام"
+      },
+      {
+        "name": "الخليج تايمز",
+        "url": "https://www.khaleejtimes.com/rss/homepage.xml",
+        "description": "أخبار الإمارات",
+        "language": "ar",
+        "country": "الإمارات",
+        "category": "عام"
+      }
+    ],
+    "اقتصاد": [
+      {
+        "name": "الإمارات الاقتصادية",
+        "url": "https://www.emaratbusiness.com/rss/",
+        "description": "أخبار الاقتصاد الإماراتي",
+        "language": "ar",
+        "country": "الإمارات",
+        "category": "اقتصاد"
+      },
+      {
+        "name": "بيزنس عرب",
+        "url": "https://www.businessarabia.me/feed/",
+        "description": "أخبار الأعمال العربية",
+        "language": "ar",
+        "country": "الإمارات",
+        "category": "اقتصاد"
+      },
+      {
+        "name": "الخليج الاقتصادية",
+        "url": "https://www.khaleejtimes.com/rss/business.xml",
+        "description": "أخبار الأعمال في الخليج",
+        "language": "ar",
+        "country": "الإمارات",
+        "category": "اقتصاد"
+      }
+    ],
+    "تقنية": [
+      {
+        "name": "أب توت الإمارات",
+        "url": "https://www.gsmarena.com/rss/news-ar.php3",
+        "description": "أخبار الهواتف والتكنولوجيا",
+        "language": "ar",
+        "country": "الإمارات",
+        "category": "تقنية"
+      },
+      {
+        "name": "تك عربي",
+        "url": "https://www.techarabic.com/feed/",
+        "description": "أخبار التكنولوجيا العربية",
+        "language": "ar",
+        "country": "الإمارات",
+        "category": "تقنية"
+      }
+    ]
+  },
+  "الكويت": {
+    "عام": [
+      {
+        "name": "الرأي",
+        "url": "https://www.alraimedia.com/rss/rssfeed.xml",
+        "description": "أخبار الكويت",
+        "language": "ar",
+        "country": "الكويت",
+        "category": "عام"
+      },
+      {
+        "name": "القبس",
+        "url": "https://www.alqabas.com/rss/rssfeed.xml",
+        "description": "أخبار الكويت",
+        "language": "ar",
+        "country": "الكويت",
+        "category": "عام"
+      },
+      {
+        "name": "الجريدة",
+        "url": "https://www.journal.com.kw/rss/rssfeed.xml",
+        "description": "أخبار الكويت",
+        "language": "ar",
+        "country": "الكويت",
+        "category": "عام"
+      },
+      {
+        "name": "الكويت تايمز",
+        "url": "https://www.kuwaittimes.com/rss/rssfeed.xml",
+        "description": "أخبار الكويت",
+        "language": "ar",
+        "country": "الكويت",
+        "category": "عام"
+      },
+      {
+        "name": "الأنباء",
+        "url": "https://www.alanba.com.kw/rss/rssfeed.xml",
+        "description": "أخبار الكويت",
+        "language": "ar",
+        "country": "الكويت",
+        "category": "عام"
+      }
+    ],
+    "رياضة": [
+      {
+        "name": "الكويت الرياضي",
+        "url": "https://www.kuna.net.kw/rss/SPORT/rssfeed.xml",
+        "description": "أخبار الرياضة الكويتية",
+        "language": "ar",
+        "country": "الكويت",
+        "category": "رياضة"
+      }
+    ]
+  },
+  "قطر": {
+    "عام": [
+      {
+        "name": "الجزيرة",
+        "url": "https://www.aljazeera.net/rss/all.xml",
+        "description": "أخبار قطر والعالم العربي",
+        "language": "ar",
+        "country": "قطر",
+        "category": "عام"
+      },
+      {
+        "name": "الراية",
+        "url": "https://www.raya.com/rss/rssfeed.xml",
+        "description": "أخبار قطر",
+        "language": "ar",
+        "country": "قطر",
+        "category": "عام"
+      },
+      {
+        "name": "الشرق",
+        "url": "https://www.alsharq.com/rss/rssfeed.xml",
+        "description": "أخبار قطر",
+        "language": "ar",
+        "country": "قطر",
+        "category": "عام"
+      },
+      {
+        "name": "العرب",
+        "url": "https://alarab.com/rss/feeds",
+        "description": "أخبار قطر والعالم العربي",
+        "language": "ar",
+        "country": "قطر",
+        "category": "عام"
+      }
+    ],
+    "اقتصاد": [
+      {
+        "name": "الجزيرة الاقتصادية",
+        "url": "https://www.aljazeera.net/rss/business.xml",
+        "description": "أخبار الاقتصاد العربي",
+        "language": "ar",
+        "country": "قطر",
+        "category": "اقتصاد"
+      }
+    ]
+  },
+  "الأردن": {
+    "عام": [
+      {
+        "name": "الغد",
+        "url": "https://alghad.com/rss/rssfeed.xml",
+        "description": "أخبار الأردن",
+        "language": "ar",
+        "country": "الأردن",
+        "category": "عام"
+      },
+      {
+        "name": "الدستور",
+        "url": "https://www.addustour.com/rss/rssfeed.xml",
+        "description": "أخبار الأردن",
+        "language": "ar",
+        "country": "الأردن",
+        "category": "عام"
+      },
+      {
+        "name": "الرأي",
+        "url": "https://alrai.com/rss/rssfeed.xml",
+        "description": "أخبار الأردن",
+        "language": "ar",
+        "country": "الأردن",
+        "category": "عام"
+      },
+      {
+        "name": "الأنباط",
+        "url": "https://www.ananbat.com/rss/rssfeed.xml",
+        "description": "أخبار الأردن",
+        "language": "ar",
+        "country": "الأردن",
+        "category": "عام"
+      },
+      {
+        "name": "قناة رؤيا",
+        "url": "https://royanews.tv/rss/",
+        "description": "أخبار الأردن",
+        "language": "ar",
+        "country": "الأردن",
+        "category": "عام"
+      }
+    ],
+    "اقتصاد": [
+      {
+        "name": "سبأ الاقتصادية",
+        "url": "https://www.saba.ye/rss/biz.xml",
+        "description": "أخبار الاقتصاد اليمني",
+        "language": "ar",
+        "country": "الأردن",
+        "category": "اقتصاد"
+      }
+    ]
+  },
+  "المغرب": {
+    "عام": [
+      {
+        "name": "هسبريس",
+        "url": "https://www.hespress.com/rss/",
+        "description": "أخبار المغرب",
+        "language": "ar",
+        "country": "المغرب",
+        "category": "عام"
+      },
+      {
+        "name": "المغرب اليوم",
+        "url": "https://www.moroccoworldnews.com/feed/",
+        "description": "أخبار المغرب",
+        "language": "ar",
+        "country": "المغرب",
+        "category": "عام"
+      },
+      {
+        "name": "ليكونوميست",
+        "url": "https://www.leconomiste.com/rss/feed",
+        "description": "أخبار الاقتصاد المغربي",
+        "language": "ar",
+        "country": "المغرب",
+        "category": "عام"
+      },
+      {
+        "name": "لي كونفيدانسيال",
+        "url": "https://www.leconfidentiel.ma/rss",
+        "description": "أخبار المغرب",
+        "language": "ar",
+        "country": "المغرب",
+        "category": "عام"
+      },
+      {
+        "name": "العمق",
+        "url": "https://www.al3omk.com/rss/",
+        "description": "أخبار المغرب",
+        "language": "ar",
+        "country": "المغرب",
+        "category": "عام"
+      },
+      {
+        "name": "أخبار اليوم",
+        "url": "https://www.akhbaralyoum.ma/rss/",
+        "description": "أخبار المغرب",
+        "language": "ar",
+        "country": "المغرب",
+        "category": "عام"
+      },
+      {
+        "name": "أندبندنت عربية",
+        "url": "https://www.independentarabia.com/rss",
+        "description": "أخبار العالم العربي",
+        "language": "ar",
+        "country": "المغرب",
+        "category": "عام"
+      }
+    ],
+    "اقتصاد": [
+      {
+        "name": "إيكو 24",
+        "url": "https://eco24.ma/rss/",
+        "description": "أخبار الاقتصاد المغربي",
+        "language": "ar",
+        "country": "المغرب",
+        "category": "اقتصاد"
+      }
+    ]
+  },
+  "تونس": {
+    "عام": [
+      {
+        "name": "واتساب",
+        "url": "https://www.tap.tn/rss/feed.xml",
+        "description": "أخبار تونس",
+        "language": "ar",
+        "country": "تونس",
+        "category": "عام"
+      },
+      {
+        "name": "التاسعة",
+        "url": "https://www.ennahar.com/rss",
+        "description": "أخبار تونس",
+        "language": "ar",
+        "country": "تونس",
+        "category": "عام"
+      },
+      {
+        "name": "الشعب",
+        "url": "https://www.assabah.com.tn/rss",
+        "description": "أخبار تونس",
+        "language": "ar",
+        "country": "تونس",
+        "category": "عام"
+      },
+      {
+        "name": "بوابة تونس",
+        "url": "https://www.tunisia-today.com/rss",
+        "description": "أخبار تونس",
+        "language": "ar",
+        "country": "تونس",
+        "category": "عام"
+      }
+    ]
+  },
+  "لبنان": {
+    "عام": [
+      {
+        "name": "النهار",
+        "url": "https://www.annahar.com/rss/all.xml",
+        "description": "أخبار لبنان",
+        "language": "ar",
+        "country": "لبنان",
+        "category": "عام"
+      },
+      {
+        "name": "الديار",
+        "url": "https://addiyar.com/rss/rssfeed.xml",
+        "description": "أخبار لبنان",
+        "language": "ar",
+        "country": "لبنان",
+        "category": "عام"
+      },
+      {
+        "name": "المستقبل",
+        "url": "https://www.almustaqbal.com.rss.xml",
+        "description": "أخبار لبنان",
+        "language": "ar",
+        "country": "لبنان",
+        "category": "عام"
+      },
+      {
+        "name": "الأنباء",
+        "url": "https://www.an-nahar.com/rss/rssfeed.xml",
+        "description": "أخبار لبنان",
+        "language": "ar",
+        "country": "لبنان",
+        "category": "عام"
+      }
+    ]
+  },
+  "فلسطين": {
+    "عام": [
+      {
+        "name": "فلسطين الآن",
+        "url": "https://www.palestineposition.com/rss.xml",
+        "description": "أخبار فلسطين",
+        "language": "ar",
+        "country": "فلسطين",
+        "category": "عام"
+      },
+      {
+        "name": "فيس بوك",
+        "url": "https://www.falastin.com/feed/",
+        "description": "أخبار فلسطين",
+        "language": "ar",
+        "country": "فلسطين",
+        "category": "عام"
+      },
+      {
+        "name": "وفا",
+        "url": "https://www.wafa.ps/rss.xml",
+        "description": "وكالة الأنباء الفلسطينية",
+        "language": "ar",
+        "country": "فلسطين",
+        "category": "عام"
+      },
+      {
+        "name": "الجزيرة نت",
+        "url": "https://www.aljazeera.net/rss/politics.xml",
+        "description": "أخبار فلسطين من الجزيرة",
+        "language": "ar",
+        "country": "فلسطين",
+        "category": "عام"
+      }
+    ]
+  }
+}
